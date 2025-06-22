@@ -1,0 +1,157 @@
+<resources>
+    <string name="app_name">Project1</string>
+
+    <string name="surveyQuestion1">What is your favourite Greek island?</string>
+    <string name="surveyQuestion2">What is you favourite Greek food?</string>
+
+    <string name="rhodesDescription">Rhodes (/roʊdz/; Greek: Ρόδος,
+        romanized: Ródos [ˈroðos]) is the largest of
+        the Dodecanese islands of Greece and is their
+        historical capital; it is the ninth largest island
+        in the Mediterranean Sea. Administratively, the
+        island forms a separate municipality within the
+        Rhodes regional unit, which is part of the South Aegean
+        administrative region. The principal town of the island
+        and seat of the municipality is the city of Rhodes,
+        which had 50,636 inhabitants in 2011. In 2022, the
+        island had a population of 125,113 people. It is
+        located northeast of Crete and southeast of Athens.
+        Rhodes has several nicknames, such as \""Island of the Sun\""
+        due to its patron sun god Helios, \""The Pearl Island\"",
+        and \""The Island of the Knights\"", named after the
+        Knights of Saint John of Jerusalem, who ruled the
+        island from 1310 to 1522.
+
+        \n\nHistorically, Rhodes was famous for the Colossus of
+        Rhodes, one of the Seven Wonders of the Ancient World.
+        The Medieval Old Town of the City of Rhodes has been
+        declared a World Heritage Site. Today, it is one of the
+        most popular tourist destinations in Europe. It is
+        part of Greece but it is geographically in Asia.</string>
+
+    <string name="creteDescription">Crete (/kriːt/ KREET;
+        Greek: Κρήτη, Modern: Kríti [ˈkriti], Ancient:
+        Krḗtē [krɛ̌ːtεː]) is the largest and most populous
+        of the Greek islands, the 88th largest island in the world
+        and the fifth largest island in the Mediterranean Sea, after
+        Sicily, Sardinia, Cyprus, and Corsica. Crete is located about
+        100 km (62 mi) south of the Peloponnese, and about 300 km (190 mi)
+        southwest of Anatolia. Crete has an area of 8,450 km2
+        (3,260 sq mi) and a coastline of 1,046 km (650 mi). It
+        bounds the southern border of the Aegean Sea, with the Sea
+        of Crete (or North Cretan Sea) to the north and the Libyan Sea
+        (or South Cretan Sea) to the south. Crete covers 260 km from
+        west to east but is narrow from north to south, spanning three
+        longitudes but only half a latitude.
+
+        \n\nThe island is mostly mountainous, and its character is
+        defined by a high mountain range crossing from west to east.
+        It includes Crete\'s highest point, Mount Ida, and the range of
+        the White Mountains (Lefka Ori) with 30 summits above 2,000 metres
+        (6,600 ft) in altitude and the Samaria Gorge, a World Biosphere
+        Reserve. Crete forms a significant part of the economy and cultural
+        heritage of Greece, while retaining its own local cultural traits
+        (such as its own poetry and music). The Nikos Kazantzakis airport
+        at Heraklion and the Daskalogiannis airport at Chania serve international
+        travelers. The Minoan palace at Knossos is also located in Heraklion.</string>
+
+    <string name="corfuDescription">Corfu (/kɔːrˈf(j)uː/ kor-FEW,
+        US also /ˈkɔːrf(j)uː/ KOR-few) or Kerkyra (Greek: Κέρκυρα,
+        romanized: Kérkyra, pronounced [ˈcercira] ⓘ)[a] is a Greek island
+        in the Ionian Sea, of the Ionian Islands;[1] including its small
+        satellite islands, it forms the margin of Greece\'s
+        northwestern frontier. The island is part of the Corfu
+        regional unit, and is administered by three municipalities with
+        the islands of Othonoi, Ereikoussa, and Mathraki. The principal city
+        of the island (pop. 32,095) is also named Corfu. Corfu is home
+        to the Ionian University.</string>
+
+    <string name="kosDescription">Kos or Cos (/kɒs, kɔːs/; Greek: Κως [kos])
+        is a Greek island, which is part of the Dodecanese island
+        chain in the southeastern Aegean Sea. Kos is the third
+        largest island of the Dodecanese, after Rhodes and Karpathos;
+        it has a population of 37,089 (2021 census), making it the second
+        most populous of the Dodecanese after Rhodes. The island measures
+        42.1 by 11.5 kilometres (26 by 7 miles). Administratively, Kos
+        constitutes a municipality within the Kos regional unit, which is
+        part of the South Aegean region. The principal town of the island
+        and seat of the municipality is the town of Kos.</string>
+
+    <string name="santoriniDescription">Santorini (Greek: Σαντορίνη,
+        romanized: Santoríni, pronounced [sa(n)doˈrini]),
+        officially Thira (Greek: Θήρα, romanized: Thíra, pronounced
+        [ˈθira]) or Thera, is a Greek island in the southern Aegean
+        Sea, about 200 km (120 mi) southeast from the mainland.
+        It is the largest island of a small, circular archipelago
+        formed by the Santorini caldera. It is the southernmost member
+        of the Cyclades group of islands, with an area of approximately
+        73 km2 (28 sq mi) and a 2021 census population of 15,480. The
+        municipality of Santorini includes the inhabited islands of
+        Santorini and Therasia, and the uninhabited islands of Nea Kameni,
+        Palaia Kameni, Aspronisi, Anydros, and Christiana. The
+        total land area is 91 km2 (35 sq mi). Santorini is part of the Thira regional unit.
+
+        \n\nIt is the most active volcanic centre in the South Aegean Volcanic
+        Arc. The volcanic arc is approximately 500 km (300 mi) long
+        and 20 to 40 km (12 to 25 mi) wide. The region first became volcanically
+        active around 3–4 million years ago, though volcanism on Thera began
+        around 2 million years ago with the extrusion of dacitic lavas from
+        vents around Akrotiri. One of the largest volcanic eruptions in recorded
+        history struck the island about 3,600 years ago, leaving a large
+        water-filled caldera surrounded by deep volcanic ash deposits.</string>
+
+    <string name="parosDescription">Paros (/ˈpɛərɒs/; Greek: Πάρος [ˈparos];
+        Venetian: Paro) is a Greek island in the central Aegean Sea.
+        Part of the Cyclades island group, it lies to the west of Naxos,
+        from which it is separated by a channel about 8 kilometres
+        (5 miles) wide. It lies approximately 150 km (93 miles) south-east of
+        Piraeus. The Municipality of Paros includes numerous uninhabited offshore
+        islets totaling 196.308 square kilometres (75.795 sq mi) of land. Its
+        nearest neighbor is the municipality of Antiparos, which lies to its southwest.
+        In ancient Greece, the city-state of Paros was located on the island.
+
+        \n\nHistorically, Paros was known for its fine white marble, which gave
+        rise to the term Parian to describe marble or china of similar qualities.
+        Today, abandoned marble quarries and mines (with some still being in use)
+        can be found on the island, but Paros is primarily known as a popular tourist spot.</string>
+
+    <string name="mykonosDescription">Mykonos (/ˈmɪkənɒs, -noʊs/, UK also /ˈmiːk-/;
+        Greek: Μύκονος [ˈmikonos]) is a Greek island, part of the Cyclades,
+        lying between Tinos, Syros, Paros and Naxos. The island has an area of
+        85.5 square kilometres (33.0 sq mi) and rises to an elevation of 341 metres
+        (1,119 feet) at its highest point. At the 2021 census, there were 10,704
+        inhabitants, most of whom lived in the largest town, Mykonos, which is on
+        the west coast. The town is also known as Chora (i.e. \'Town\' in Greek,
+        following the common practice in Greece when the name of the island
+        itself is the same as the name of the principal town).
+
+        \n\nMykonos\'s nickname is \""The Island of the Winds\"", due to the very strong
+        winds that usually blow on the island. Tourism is a major industry and
+        Mykonos is known for its vibrant nightlife.</string>
+
+    <string name="zakynthosDescription">Zakynthos (also spelled Zakinthos; Greek:
+        Ζάκυνθος, romanized: Zákynthos [ˈzacinθos]; Italian: Zacinto [dzaˈtʃinto])
+        or Zante (/ˈzænti/, US also /ˈzɑːnteɪ/, Italian: [ˈdzante]; Greek:
+        Τζάντε, romanized: Tzánte [ˈdza(n)de]; from the Venetian form,
+        traditionally Latinized as Zacynthus) is a Greek island in the Ionian Sea.
+        It is the third largest of the Ionian Islands, with an area of 405.55 km2
+        (156.6 sq mi), and a coastline 123 km (76 mi) in length. The name, like all
+        similar names ending in -nthos, is pre-Mycenaean or Pelasgian in origin.
+        In Greek mythology, the island was said to be named after Zacynthus,
+        the son of the legendary Arcadian chief Dardanus.
+
+        \n\nZakynthos is a tourist destination, especially amongst British tourists,
+        with an international airport served by charter flights from northern Europe.
+        The island\'s nickname is \""the Flower of the Levant\"", bestowed upon it by the
+        Venetians, who ruled Zakynthos from 1484 to 1797.</string>
+
+    <string name="rhodesPhone">International Airport of Rhodes</string>
+    <string name="cretePhone">International Airport of Crete</string>
+    <string name="corfuPhone">International Airport of Corfu</string>
+    <string name="kosPhone">International Airport of Kos</string>
+    <string name="santoriniPhone">International Airport of Santorini</string>
+    <string name="parosPhone">International Airport of Paros</string>
+    <string name="mykonosPhone">International Airport of Mykonos</string>
+    <string name="zakynthosPhone">International Airport of Zakynthos</string>
+
+</resources>

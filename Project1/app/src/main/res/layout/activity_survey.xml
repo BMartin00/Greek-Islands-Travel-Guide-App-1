@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#53ABBC"
+    tools:context=".Survey">
+
+    <RadioGroup
+        android:id="@+id/islandChoiceGroup"
+        android:layout_width="120dp"
+        android:layout_height="400dp"
+        android:layout_marginTop="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/surveyQuestion1Text">
+
+        <RadioButton
+            android:id="@+id/rhodesButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rhodes" />
+
+        <RadioButton
+            android:id="@+id/creteButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Crete" />
+
+        <RadioButton
+            android:id="@+id/corfuButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Corfu" />
+
+        <RadioButton
+            android:id="@+id/kosButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Kos" />
+
+        <RadioButton
+            android:id="@+id/santoriniButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Santorini" />
+
+        <RadioButton
+            android:id="@+id/parosButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Paros" />
+
+        <RadioButton
+            android:id="@+id/mykonosButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mykonos" />
+
+        <RadioButton
+            android:id="@+id/zakynthosButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Zakynthos" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/surveyQuestion1Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:text="@string/surveyQuestion1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="27dp"
+        android:layout_marginBottom="75dp"
+        android:text="Submit"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/foodText" />
+
+    <TextView
+        android:id="@+id/surveyQuestion2Text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:text="@string/surveyQuestion2"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/islandChoiceGroup" />
+
+    <EditText
+        android:id="@+id/foodText"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="Your Favourite Food"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/surveyQuestion2Text" />
+</androidx.constraintlayout.widget.ConstraintLayout>
